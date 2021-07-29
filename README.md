@@ -39,7 +39,7 @@ Requirements:
 ./geth --datadir node2 account new
 ```
 
-![header](Screenshots/1_createAccount_1.png.png)
+![header](Screenshots/1_createAccount_1.png)
 
 1) Copy the both "Public address of key" and save it for later
 
