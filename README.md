@@ -38,6 +38,9 @@ Requirements:
 ```sh
 ./geth --datadir node2 account new
 ```
+4) Set up the password for the Node2 Account
+   * Do not forget to copy the public address of the key
+
 
 ![header](Screenshots/1_createAccount_1.png)
 
